@@ -14,9 +14,9 @@ chaudharysunny5446@gmail.com
 
 🖇️ Connect with me:
 
-🔗www.linkedin.com/in/sunny-sangwan-9a3633208
+🔗 www.linkedin.com/in/sunny-sangwan-9a3633208
 
-🔗https://www.hackerrank.com/dashboard 
+🔗 https://www.hackerrank.com/dashboard 
 
-🔗https://leetcode.com/u/sangwansunny/
+🔗 https://leetcode.com/u/sangwansunny/
 
