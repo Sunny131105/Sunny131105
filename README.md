@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning 
 
-  Python,Machine Learning, Deep Learning, PowerBI,Tableau,Excel,SQL
+  Python,Machine Learning, Deep Learning, PowerBI, Tableau, Excel, SQL
   
 📫 How can reach me?
 
