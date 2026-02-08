@@ -86,7 +86,7 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 ## 🎯 Activities & Volunteering
 
 🤝 Student Volunteer — NexGen Hack 2025
-   36-hour National Hackathon at RKGIT, Ghaziabad (4–6 Sept 2025)
+   36-hour National Hackathon at RKGIT, Ghaziabad (4th – 6th Sept 2025)
 
    • Collaborated in a high-pressure innovation environment
 
