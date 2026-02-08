@@ -39,16 +39,16 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 
 ## 📈 GitHub Stats  
 
-![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnySangwan&show_icons=true&theme=tokyonight)
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny131105&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySangwan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny131105&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🤝 Connect With Me  
 
-- 💼 LinkedIn: *([[Linkedin.com](https://www.linkedin.com/in/sunny-sangwan-9a3633208/)])*  
-- 📧 Email: *(chaudharysunny5446@gamil.com)*  
+- 💼 LinkedIn: *[Linkedin.com](https://www.linkedin.com/in/sunny-sangwan-9a3633208/)*  
+- 📧 Email: *chaudharysunny5446@gamil.com*  
 
 ---
 
