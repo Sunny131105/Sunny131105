@@ -28,7 +28,7 @@ I’m passionate about **data analytics, machine learning, and building real-wor
 ## 🛠️ Skills & Tools  
 
 - **Programming:** Python, SQL, Java, C, Html, CSS, Javascript   
-- **Data Analysis:** Excel, Power BI, Tableau  
+- **Data Analysis:** Excel, Power BI, Tableau, MySQL, PowerPoint  
 - **Machine Learning:** Scikit-learn, Tensorflow, Pytorch  
 - **Statistics & Visualization:** Descriptive Statistics, Data Visualization  
 - **Version Control:** Git & GitHub  
