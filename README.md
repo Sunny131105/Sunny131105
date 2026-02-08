@@ -1,22 +1,56 @@
+# 👋 Hi, I'm Sunny Sangwan  
 
-![ChatGPT Image Jun 12, 2025, 09_11_08 AM](https://github.com/user-attachments/assets/3e3a7007-b628-4c96-9aac-7d53fe24a09b)
-👋 Hi, I’m Sunny Sangwan
+🎓 B.Tech Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast  
 
-👀 Aspiring Data Scientist from India 
+Welcome to my GitHub profile!  
+I’m passionate about **data analytics, machine learning, and building real-world projects** that solve meaningful problems.
 
-🌱 I’m currently learning 
+---
 
-  Python,Machine Learning, Deep Learning, PowerBI, Tableau, Excel, SQL
-  
-📫 How can reach me?
+## 🚀 About Me  
 
-chaudharysunny5446@gmail.com
+- 🔍 Interested in **Data Science, Data Analytics & AI**
+- 📈 Skilled in analyzing data and building predictive models
+- 🧠 Constantly learning and exploring new technologies
+- 💡 Believe in learning by building projects
 
-🖇️ Connect with me:
+---
 
-🔗 www.linkedin.com/in/sunny-sangwan-9a3633208
+## 🛠️ Skills & Tools  
 
-🔗 https://www.hackerrank.com/dashboard 
+- **Programming:** Python, SQL, Java, C, Html, CSS, Javascript   
+- **Data Analysis:** Excel, Power BI, Tableau  
+- **Machine Learning:** Scikit-learn, Tensorflow, Pytorch  
+- **Statistics & Visualization:** Descriptive Statistics, Data Visualization  
+- **Version Control:** Git & GitHub  
 
-🔗 https://leetcode.com/u/sangwansunny/
+---
 
+## 📂 Projects  
+
+Here are some of the projects I’ve worked on (check repositories 👇):  
+
+- ❤️ **Heart Disease Prediction using Machine Learning**  
+- 🛰️ **Cattle Breed Recognition System using Machine Learning**  
+- 📧 **KrishiAi - Crop Recommendation App using Machine Learning**  
+- 📊 **Interactive Data Dashboards using Power BI & Streamlit**
+
+---
+
+## 📈 GitHub Stats  
+
+![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunnySangwan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunnySangwan&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me  
+
+- 💼 LinkedIn: *([[Linkedin.com](https://www.linkedin.com/in/sunny-sangwan-9a3633208/)])*  
+- 📧 Email: *(chaudharysunny5446@gamil.com)*  
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
+Thanks for visiting my profile 😊
