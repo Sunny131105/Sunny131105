@@ -98,7 +98,8 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 ## 🤝 Connect With Me  
 
 - 💼 LinkedIn: *[Linkedin.com](https://www.linkedin.com/in/sunny-sangwan-9a3633208/)*  
-- 📧 Email: *chaudharysunny5446@gamil.com*  
+- 📧 Email: *chaudharysunny5446@gamil.com*
+- 🖇️ Instagram: *[sangwan_1302](https://www.instagram.com/sangwan_1302/)*
 
 
 
