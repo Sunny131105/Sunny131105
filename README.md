@@ -81,7 +81,7 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 
 ![Sunny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny131105&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny131105&layout=compact&theme=tokyonight)
+
 
 
 
