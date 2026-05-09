@@ -7,10 +7,10 @@
 
 # 👋 Hi, I'm Sunny Sangwan  
 
-🎓 B.Tech Student | 📊 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast  
+🎓 B.Tech Student | 📊 Aspiring Data Analyst / Data Scientist | 🤖 Machine Learning Enthusiast  
 
 Welcome to my GitHub profile!  
-I’m passionate about **data analytics, machine learning, and building real-world projects** that solve meaningful problems.
+I’m passionate about **Data Analytics, Machine Learning, and building real-world projects** that solve meaningful problems.
 
 
 
@@ -27,10 +27,10 @@ I’m passionate about **data analytics, machine learning, and building real-wor
 
 ## 🛠️ Skills & Tools  
 
-- **Programming:** Python, SQL, Java, C, Html, CSS, Javascript   
-- **Data Analysis:** Excel, Power BI, Tableau, SQL, MySQL, PowerPoint  
-- **Machine Learning:** Scikit-learn, Tensorflow, Pytorch  
-- **Statistics & Visualization:** Descriptive Statistics, Data Visualization  
+- **Programming:** Python, SQL, Java, C   
+- **Data Analysis:** MS-Excel, Power BI, Tableau, SQL, MySQL, PowerPoint  
+- **Machine Learning:** Scikit-learn, NLP, Regression & Classification, Lasso, Tensorflow, Pytorch  
+- **Statistics & Visualization:** Descriptive Statistics, Data Visualization (Matplotlib & Seaborn) 
 - **Version Control:** Git & GitHub  
 
 
@@ -68,10 +68,11 @@ HackerRank · Nov 23, 2024
 
 Here are some of the projects I’ve worked on (check repositories 👇):  
 
-- ❤️ **Heart Disease Prediction using Machine Learning**  
+- ❤️ **Heart Disease Prediction using Machine Learning**
+- 📧 **Spam Mails/Message Detection using Machine Learning + NLP**
 - 🛰️ **Cattle Breed Recognition System using Machine Learning**  
-- 📧 **KrishiAi - Crop Recommendation App using Machine Learning**  
-- 📊 **Interactive Data Dashboards using Power BI & Streamlit**
+- 🌾 **KrishiAi - Crop Recommendation App using Machine Learning**  
+- 📊 **Interactive Analytics Dashboards using MS-Excel, SQL & Power BI/Tableau**
 
 
 
