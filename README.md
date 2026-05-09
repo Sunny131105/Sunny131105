@@ -59,6 +59,8 @@ HackerRank · Nov 23, 2024
 💡 Hackathon Participation – DIHE College, Noida
 · Apr 25, 2025
 
+🎖️Google Data Analytics - Coursera 
+. Apr - 2026
 
 
 
