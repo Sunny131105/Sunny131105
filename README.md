@@ -79,9 +79,7 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sunny131105&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Sunny131105&theme=tokyonight&hide_border=false)
+![Sunny's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sunny131105&show_icons=true&theme=tokyonight)
 
 
 
