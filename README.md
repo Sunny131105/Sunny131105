@@ -76,13 +76,6 @@ Here are some of the projects I’ve worked on (check repositories 👇):
 
 
 
-
-## 📈 GitHub Stats
-
-![Sunny's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sunny131105&show_icons=true&theme=tokyonight)
-
-
-
 ## 🎯 Activities & Volunteering
 
 🤝 Student Volunteer — NexGen Hack 2025
