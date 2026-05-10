@@ -42,10 +42,10 @@ I’m passionate about **Data Analytics, Machine Learning, and building real-wor
 RKGIT College · Dec 29, 2024
 
 🧠 Machine Learning for Data Science
-Codebasics · Aug 20, 2025
+[Codebasics] · Aug 20, 2025
 
 🤖 Machine Learning Internship (1 Month)
-Acmegrade · May 08, 2025
+[Acmegrade]· May 08, 2025
 
 🐍 Python (Basics)
 HackerRank · Nov 23, 2024
@@ -56,10 +56,10 @@ HackerRank · Nov 23, 2024
 🏁 NexGen Hackathon (National Level)
 · Sep 06, 2025
 
-💡 Hackathon Participation – DIHE College, Noida
+💡 Hackathon – DIHE College, Noida
 · Apr 25, 2025
 
-🎖️Google Data Analytics - Coursera 
+🎖️Google Data Analytics - [Coursera] 
 . Apr - 2026
 
 
