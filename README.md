@@ -37,31 +37,33 @@ I’m passionate about **Data Analytics, Machine Learning, and building real-wor
 
 
  ## 🏆 Certifications & Achievements
+ 
+ 🎖️Data Analytics with Python - [NPTEL]
+   . May, 2026
+   
+ 🎖️Google Data Analytics - [Coursera] 
+   . Apr, 2026
+   
+ 📊 Bootcamp on Big Data & Data Science
+    · Dec, 2025
 
- 🥉 Coder Clasher’s 2.0 – 3rd Rank
-RKGIT College · Dec 29, 2024
+ 🏁 NexGen Hackathon (National Level)
+    · Sep, 2025
+    
+ 🧠 Machine Learning for Data Science - [Codebasics] 
+    · Aug, 2025
 
-🧠 Machine Learning for Data Science
-[Codebasics] · Aug 20, 2025
+ 🤖 Machine Learning Internship (1 Month) - [Acmegrade]
+    · May, 2025
 
-🤖 Machine Learning Internship (1 Month)
-[Acmegrade]· May 08, 2025
+ 💡 Hackathon – DIHE College, Noida
+    · Apr, 2025
 
-🐍 Python (Basics)
-HackerRank · Nov 23, 2024
+ 🥉 Coder Clasher’s 2.0 – 3rd Rank - RKGIT College 
+    · Dec, 2024
 
-📊 Bootcamp on Big Data & Data Science
-· Dec 29, 2025
-
-🏁 NexGen Hackathon (National Level)
-· Sep 06, 2025
-
-💡 Hackathon – DIHE College, Noida
-· Apr 25, 2025
-
-🎖️Google Data Analytics - [Coursera] 
-. Apr - 2026
-
+ 🐍 Python (Basics)
+    HackerRank · Nov, 2024
 
 
 ## 📂 Projects  
